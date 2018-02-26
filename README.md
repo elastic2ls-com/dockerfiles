@@ -19,7 +19,9 @@ docker logs elastic2ls-apache-centos6
 1.4 remove everthing
 
 docker stop elastic2ls-apache-centos6 && docker rm elastic2ls-apache-centos6 && docker rmi apache:centos6
-----------------------
+
+
+
 2 ubuntu 14
 
 cd apache/ubuntu14/Dockerfile
